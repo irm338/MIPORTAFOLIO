@@ -16,10 +16,11 @@
 
 ## 💻 Sobre Mí
 
-¡Bienvenida/o a mi perfil! Soy una estudiante de programación enfocada en crear experiencias digitales limpias y funcionales. Me encanta resolver problemas mediante el código y estoy en constante aprendizaje para dominar las herramientas del desarrollo front-end y back-end.
+¡Bienvenida/o a mi perfil! 
+¡Hola! Soy desarrolladora de software en formación. Me apasiona construir aplicaciones web funcionales, diseñar bases de datos eficientes y explorar la automatización. Aquí comparto parte de los proyectos que he desarrollado aplicando buenas prácticas de código limpio y estructurado.
 
 * 📚 **Actualmente aprendiendo:** HTML5, CSS3, Python, JavaScript, Bases de Datos y Metodologías Ágiles.
-* 🎯 **Mi meta:** Convertirme en Desarrolladora Profesional y crear soluciones tecnológicas de alto impacto.
+* 🎯 **Mi meta:** Convertirme en Desarrolladora Profesional y crear soluciones tecnológicas de alto impacto además  quiero estudiar para siverseguridad.
 * 💡 **Me interesa:** El diseño visual, la lógica de programación y cómo la tecnología puede ayudar a las personas.
 * 🌱 **Enfoque:** Siempre busco que mis proyectos sean auténticos, creativos y fáciles de usar.
 
@@ -44,7 +45,6 @@
 
 Estos son algunos de los proyectos en los que he estado trabajando (puedes verlos en mis repositorios):
 
-* 🎬 **PhotoLands:** Catálogo fotográfico interactivo creado con Python.
 * 📦 **Inventario Tienda / CampusShop:** Sistema de gestión para control de productos y precios con enfoque mobile-first.
 * 🌐 **Portafolio Profesional:** Mi sitio web personal diseñado con HTML y CSS.
 * 🤖 **TutorBot:** Sistema automatizado de gestión de tutorías y control de procesos.
