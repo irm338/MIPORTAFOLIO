@@ -1,6 +1,5 @@
 
 
-
 <div align="center">
 
 # 🚀 ¡Hola, Soy Irma Arias! 👋
@@ -16,11 +15,10 @@
 
 ## 💻 Sobre Mí
 
-¡Bienvenida/o a mi perfil! 
 ¡Hola! Soy desarrolladora de software en formación. Me apasiona construir aplicaciones web funcionales, diseñar bases de datos eficientes y explorar la automatización. Aquí comparto parte de los proyectos que he desarrollado aplicando buenas prácticas de código limpio y estructurado.
 
 * 📚 **Actualmente aprendiendo:** HTML5, CSS3, Python, JavaScript, Bases de Datos y Metodologías Ágiles.
-* 🎯 **Mi meta:** Convertirme en Desarrolladora Profesional y crear soluciones tecnológicas de alto impacto además  quiero estudiar para siverseguridad.
+* 🎯 **Mi meta:** Convertirme en Desarrolladora Profesional y crear soluciones tecnológicas de alto impacto, además quiero especializarme en ciberseguridad.
 * 💡 **Me interesa:** El diseño visual, la lógica de programación y cómo la tecnología puede ayudar a las personas.
 * 🌱 **Enfoque:** Siempre busco que mis proyectos sean auténticos, creativos y fáciles de usar.
 
@@ -32,10 +30,10 @@
 
 | ⚙️ Tecnologías & Herramientas | 🤝 Habilidades Blandas |
 | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ✨ Resolución de problemas |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 👥 Trabajo en equipo |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | 💬 Comunicación asertiva |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | 🧠 Empatía y Adaptabilidad |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ✨ Resolución de problemas |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | 👥 Trabajo en equipo |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | 💬 Comunicación asertiva |
+| | 🧠 Empatía y Adaptabilidad |
 
 </div>
 
@@ -54,11 +52,12 @@ Estos son algunos de los proyectos en los que he estado trabajando (puedes verlo
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=irm338&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irm338&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
 
-<br>
+![Irma's GitHub stats](https://github-readme-stats.vercel.app/api?username=irm338&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irm338&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
