@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
 
 # 🚀 ¡Hola, Soy Irma Arias! 👋
@@ -32,7 +34,7 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ✨ Resolución de problemas |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 👥 Trabajo en equipo |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | 💬 Comunicación asertiva |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white) | 🧠 Empatía y Adaptabilidad |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | 🧠 Empatía y Adaptabilidad |
 
 </div>
 
@@ -45,7 +47,7 @@ Estos son algunos de los proyectos en los que he estado trabajando (puedes verlo
 * 🎬 **PhotoLands:** Catálogo fotográfico interactivo creado con Python.
 * 📦 **Inventario Tienda / CampusShop:** Sistema de gestión para control de productos y precios con enfoque mobile-first.
 * 🌐 **Portafolio Profesional:** Mi sitio web personal diseñado con HTML y CSS.
-* 🤖 **TutorBot & Automatizaciones:** Sistema automatizado de gestión de tutorías utilizando flujos con **n8n**, integración de prompts y conexión con Telegram y Google Sheets.
+* 🤖 **TutorBot:** Sistema automatizado de gestión de tutorías y control de procesos.
 
 ---
 
@@ -58,12 +60,28 @@ Estos son algunos de los proyectos en los que he estado trabajando (puedes verlo
 
 <br>
 
+---
+
 <div align="center">
+
+  ### 📬 ¡Conectemos y Hablemos! 🤝
   
-  ### ¡Conectemos! 🤝
-  
+  <p>¿Tienes alguna propuesta, duda o quieres que trabajemos juntos? ¡Escríbeme!</p>
+
+  <a href="mailto:tucorreo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/tu_numero" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/irm338" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="URL_DE_TU_CV_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 
 </div>
